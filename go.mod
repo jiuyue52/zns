@@ -1,4 +1,4 @@
-module github.com/taoso/zns
+module github.com/jiuyue52/zns
 
 go 1.23
 
